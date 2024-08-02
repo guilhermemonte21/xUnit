@@ -4,16 +4,19 @@ namespace Console.Test
 {
     public class UnitTest1
     {
-        [Fact]
-        public void Test1()
+        [Theory]
+        [InlineData("cadeira", 2)]
+        [InlineData("pote", 3)]
+        [InlineData("controle",4)]
+
+        public void Test1(string nome, int quantidade)
         {
-            var Nome = "Cadeira";
-            var Quantidade = 2;
 
 
-            var add = AdicionarProduto.Adicionar(Nome, Quantidade);
+            var esperado = 1;
+            var add = AdicionarProduto.Adicionar(nome, quantidade);
 
-            Assert.Equal(Quantidade, 2);
+            Assert.NotEqual(quantidade,esperado );
         }
     }
 }

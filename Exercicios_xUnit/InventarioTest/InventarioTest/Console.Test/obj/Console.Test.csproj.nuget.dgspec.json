@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\Console.Test\\Console.Test.csproj": {}
+    "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\Console.Test\\Console.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\Console.Test\\Console.Test.csproj": {
+    "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\Console.Test\\Console.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\Console.Test\\Console.Test.csproj",
+        "projectUniqueName": "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\Console.Test\\Console.Test.csproj",
         "projectName": "Console.Test",
-        "projectPath": "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\Console.Test\\Console.Test.csproj",
+        "projectPath": "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\Console.Test\\Console.Test.csproj",
         "packagesPath": "C:\\Users\\6352573355\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\Console.Test\\obj\\",
+        "outputPath": "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\Console.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6352573355\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj": {
-                "projectPath": "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj"
+              "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj": {
+                "projectPath": "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj": {
+    "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj",
+        "projectUniqueName": "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj",
         "projectName": "InventarioTest",
-        "projectPath": "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj",
+        "projectPath": "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj",
         "packagesPath": "C:\\Users\\6352573355\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\InventarioTest\\obj\\",
+        "outputPath": "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\InventarioTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6352573355\\AppData\\Roaming\\NuGet\\NuGet.Config",

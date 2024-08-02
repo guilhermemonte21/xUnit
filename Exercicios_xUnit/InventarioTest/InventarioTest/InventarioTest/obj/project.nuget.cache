@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IbMs5q0rNd1BPly2ADdt/KKm45lhfE4BL8ytbFpUoxLqSS8XRP/Id+N5CtMLjNasnCsoQOhh3QoSaB6y2JOUTQ==",
+  "dgSpecHash": "EQtpSvI7iwX0kcuwHWw7PMPCDL7P1bGLV/vzmpmqPHpty91X3x2nLLFxEg5le9b0SiAYTnZ0sgHRhqQYw93JEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\6352573355\\Desktop\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj",
+  "projectFilePath": "C:\\Users\\6352573355\\Desktop\\xUnit\\Exercicios_xUnit\\InventarioTest\\InventarioTest\\InventarioTest\\InventarioTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6352573355\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\6352573355\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
